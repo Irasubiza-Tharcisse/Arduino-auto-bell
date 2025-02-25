@@ -9,7 +9,12 @@ This project is an automatic bell system using an Arduino Uno, Real Time Clock (
 - **Manual Override:** Use push buttons to set and disable the alarm manually.
 - **LCD Display:** Display current time and alarm status on a 16x2 LCD.
 - **Adjustable Buzzer Duration:** Customize the duration of the buzzer sound.
+  
+🕒 RTC Module
 
+🖥️ LCD Display
+
+🔔 Buzzer/Bell
 ## Components Needed
 - Arduino Uno
 - RTC module (e.g., DS3231)
