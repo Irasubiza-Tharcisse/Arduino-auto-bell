@@ -4,6 +4,13 @@
 
 This project is an automatic bell system using an Arduino Uno, Real Time Clock (RTC), LCD display, two push buttons, and a breadboard. The system allows you to set specific times for the bell to ring automatically.
 
+## Developers
+
+- **Irasubiza Tharcisse** - [GitHub Profile](https://github.com/irasubiza-tharcisse)
+- **Mugisha Eric** - [GitHub Profile](https://github.com/mugisha-eric)
+- **Gwiza Elvis** - [Github Profile](https://github.com/burnaghost)
+- **Iradufasha Gratien** - [Github Profile](https://github.com/iradufasha001)
+
 ## Features
 - **Automatic Bell Ringing:** Set specific times for the bell to ring automatically.
 - **Manual Override:** Use push buttons to set and disable the alarm manually.
@@ -103,3 +110,4 @@ void loop() {
 
   delay(1000);
 }
+
